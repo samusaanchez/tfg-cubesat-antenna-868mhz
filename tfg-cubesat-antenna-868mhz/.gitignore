@@ -1,0 +1,42 @@
+# Archivos CST grandes
+*.bak
+*.sim
+
+# Archivos LaTeX compilados
+*.aux
+*.log
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.out
+*.bbl
+*.blg
+
+# Directorio de compilación
+build/
+dist/
+*.egg-info/
+
+# Archivos de SO
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+
+# Datos temporales
+*.tmp
+*.temp
+
+# Editor
+*.swp
+*.swo
+*~
+.sublime-project
+.sublime-workspace
